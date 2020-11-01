@@ -17,6 +17,8 @@ Put a Raspberry Pi Zero W inside a Behringer X-Touch Mini and implement Xctl/MC/
 
 # Phase 1 - Initial Proofs of Concept
 * without modifying the X-Touch Mini, develop initial proof of concept on the Pi Zero hardware
+* prove whether a Pi Zero W, battery(s) and charging circuit can fit inside the case without modification
+* alternatively, design exterior case/attachment
 * prove that the Pi Zero can power and communicate bidirectionally with the X-Touch Mini
 * prove that the Pi Zero can communicate bidirectionally with a target device (X-Air mixer, DAW)
 
